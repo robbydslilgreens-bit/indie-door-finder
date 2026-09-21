@@ -1,0 +1,46 @@
+name,category,address,phone,website,email,miles_away,osm_url
+Over Easy Cafe,cafe,32 Broadway Street,+1-828-236-3533,,,0.1,https://www.openstreetmap.org/node/2798806657
+The Rhu,cafe,,,,,0.1,https://www.openstreetmap.org/node/5744735073
+Malaprop's,cafe,"55 Haywood Street, Asheville, 28801",+1-828-254-6734,https://www.malaprops.com/,,0.2,https://www.openstreetmap.org/node/2456376879
+High Five,cafe,13 Rankin Avenue,,,,0.2,https://www.openstreetmap.org/node/6124725687
+Double D's Coffee & Desserts,cafe,"41 Biltmore Avenue, Asheville, NC, 28801",+1-828-505-2439,https://www.doubledscoffee.com/,,0.2,https://www.openstreetmap.org/way/468666887
+Slava,cafe,37 Wall Street,,,,0.3,https://www.openstreetmap.org/node/6124727785
+The Bee Charmer,health food store,"38 Battery Park Avenue, 28801-2942",,https://shopbeecharmer.com/,,0.3,https://www.openstreetmap.org/node/14030032302
+City Bakery,cafe,"90 Charlotte Street, 28801",,,,0.5,https://www.openstreetmap.org/node/5670526824
+High Five,cafe,190 Broadway Street,,,,0.5,https://www.openstreetmap.org/node/6124732285
+Well Played Board Game Café,cafe,28801,+1 828-412-5788,https://wellplayedasheville.com/,,0.5,https://www.openstreetmap.org/node/11304343951
+Farewell,cafe,"11 Southside Avenue, Asheville, NC, 28801",+18285052721,https://www.farewellavl.com/,,0.5,https://www.openstreetmap.org/way/832248105
+Plant Bar,cafe,"32 Banks Avenue, Asheville, NC, 28801",,,,0.5,https://www.openstreetmap.org/way/1495966103
+Sovereign Kava Bar,cafe,268 Biltmore Avenue,,http://www.noblekava.com/,,0.7,https://www.openstreetmap.org/way/605081405
+Clingman Cafe,cafe,"242 Clingman Avenue, Asheville, NC, 28801",,,,1.0,https://www.openstreetmap.org/way/377684358
+Sugar and Snow Gelato,cafe,"99 Riverside Drive, Asheville, NC, 28801",,https://sugarandsnowgelato.com/,,1.1,https://www.openstreetmap.org/way/1075020691
+Penny Coffee,cafe,,,,,1.2,https://www.openstreetmap.org/node/11300578603
+Summit Coffee Company,cafe,"4 Foundy Street, Asheville, NC, 28801",+1 828 705 8071,https://summitcoffee.com/,angela@summitcoffee.com,1.5,https://www.openstreetmap.org/node/6124725685
+Chicken Salad Chick,deli,,,,,1.7,https://www.openstreetmap.org/node/6419766463
+French Broad Chocolate Factory & Cafe,cafe,"821 Riverside Drive, Asheville, NC, 28801",,,,1.8,https://www.openstreetmap.org/node/12099164236
+Battle Cat Coffee Bar,cafe,"373 Haywood Road, Asheville, NC, 28806",,,,2.0,https://www.openstreetmap.org/way/381114964
+Forage,cafe,,,,,2.1,https://www.openstreetmap.org/node/9416373451
+Rabbit Hole,cafe,"9 State Street, Asheville, NC",+1-828-785-5760,https://www.rabbitholeasheville.com/,,2.4,https://www.openstreetmap.org/way/377691898
+Simple Cafe & Juice Bar,cafe,,,,,2.5,https://www.openstreetmap.org/way/1085455450
+Penny Cup Coffe Co,cafe,,,,,2.6,https://www.openstreetmap.org/node/11166012379
+bad manners coffee,cafe,,,,,2.6,https://www.openstreetmap.org/node/11466239034
+Woodfin Coffee Dept,cafe,"126 Elkwood Avenue, 28804",+1-828-412-5409,https://www.woodfin-coffee.com/,mail@woodfincoffee.com,2.8,https://www.openstreetmap.org/node/13723194701
+Round Earth Roasters,cafe,"518 Hendersonville Road, Asheville, NC, 28803",,https://www.roundearthroasters.com/,,3.0,https://www.openstreetmap.org/way/1075022016
+Izzy's Coffee House,cafe,,,,,3.1,https://www.openstreetmap.org/way/1075029520
+Creamery,cafe,,,,,3.3,https://www.openstreetmap.org/node/4333123198
+Dobra Tea,cafe,,,,,3.3,https://www.openstreetmap.org/node/11165695050
+Baked Pie Company,cafe,50 N Merrimon Ave,,,,3.5,https://www.openstreetmap.org/node/6117348685
+Blue Ridge Market,greengrocer,"83 Weaverville Road, Woodfin, NC, 28804",+18286452506,,,3.5,https://www.openstreetmap.org/way/608009721
+High Five Coffee,cafe,"2000 Riverside Drive, Woodfin, NC, 28804",+1-828-785-8272,https://highfivecoffee.com/riverside/,,4.0,https://www.openstreetmap.org/node/12288475579
+Farside Farms,farm shop,,,,,4.6,https://www.openstreetmap.org/way/268951524
+Healthy Harvest Produce,farm shop,,,,,5.0,https://www.openstreetmap.org/node/3488107299
+Abeja’s House Cafe,cafe,1550 Hendersonville Road,,,,5.7,https://www.openstreetmap.org/node/6117351085
+Sage Cafe,cafe,"Sage Circle, Swannanoa, NC, 28778",,,,6.1,https://www.openstreetmap.org/node/3421619181
+The Owl's Nest,cafe,,,,,6.3,https://www.openstreetmap.org/node/3421654251
+Green Sage Cafe,cafe,"1800 Hendersonville Road, Asheville, NC",+1-828-274-4450,https://greensagecafe.com,,6.4,https://www.openstreetmap.org/node/12512370213
+Dripolator Coffeehouse,cafe,,,,,6.5,https://www.openstreetmap.org/node/13107118502
+Well-Bred Bakery & Cafe,cafe,"26 North Main Street, Weaverville, NC, 28787",+18286459300,,,7.1,https://www.openstreetmap.org/way/670071270
+Yellow Mug Coffee Lounge,cafe,"113 North Main Street, Weaverville, NC, 28787",+18284848844,,,7.3,https://www.openstreetmap.org/node/10657910997
+Mosaic Cafe,cafe,,,http://ilovemosaiccafe.com,,7.5,https://www.openstreetmap.org/node/3320160984
+Baked Pie Company,cafe,"7708, 4 Long Shoals Road",,,,7.7,https://www.openstreetmap.org/node/6117348686
+CA's Diner,cafe,"10 Tri City Plaza, Weaverville, NC, 28787",+18284847068,,,8.0,https://www.openstreetmap.org/node/6429352606
