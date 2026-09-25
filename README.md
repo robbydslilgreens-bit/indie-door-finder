@@ -20,7 +20,7 @@ You get a CSV with name, category, address, phone, website, email (when OpenStre
 
 ## Limits you should know about
 
-- **OpenStreetMap coverage is uneven.** Small rural shops are often missing, and tags are volunteer-entered. In the sample above, only 2 of 45 shops listed an email. Use the output as a candidate list, not a verified one.
+- **OpenStreetMap coverage is uneven.** Small rural shops are often missing, and tags are volunteer-entered. In the sample above, only 2 of 45 shops listed an email. Contact coverage for that run: 14 list a phone number (5 of those have no website or email, so phone is the only route), 14 list a website, 19 have at least one of phone, website or email, and 26 have none of the three. Use the output as a candidate list, not a verified one.
 - **It finds shops; it does not find buyers.** Look at each shop's website or call before you pitch, and verify any email address before you send to it.
 - **Fair use.** One geocode request and one Overpass request per run. Please don't loop it over hundreds of towns; the public servers are free because people are polite with them.
 - Independent is a guess. A shop can be a franchise or small chain without a brand tag. Skim the list.
