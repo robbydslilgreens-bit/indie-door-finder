@@ -18,6 +18,16 @@ You get a CSV with name, category, address, phone, website, email (when OpenStre
 - Shops whose name matches a list of common national and regional chains (`CHAINS` in the script; add your own).
 - Duplicates at the same spot.
 
+## Next step: sort the list by how you can reach each shop
+
+```
+python contact_routes.py doors.csv --out doors-routes.csv
+```
+
+`contact_routes.py` adds a `contact_route` column (`email`, `website`, `phone-only` or `none`) and, for shops with an email, an `email_domain_mx` column that says whether that domain accepts mail at all (one DNS-over-HTTPS lookup per domain, no keys, standard library only). On the Asheville sample it sorts the 45 shops into 2 with an email, 12 with a website only, 5 phone-only and 26 with nothing.
+
+An MX check only weeds out dead domains. It does not tell you the mailbox exists or that anyone reads it, so still run a real verifier before you send, and still find the buyer's name before you write.
+
 ## Limits you should know about
 
 - **OpenStreetMap coverage is uneven.** Small rural shops are often missing, and tags are volunteer-entered. In the sample above, only 2 of 45 shops listed an email. Contact coverage for that run: 14 list a phone number (5 of those have no website or email, so phone is the only route), 14 list a website, 19 have at least one of phone, website or email, and 26 have none of the three. Use the output as a candidate list, not a verified one.
