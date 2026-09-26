@@ -2,6 +2,8 @@
 
 A small, free tool that lists independent cafes, juice bars, health-food stores, delis and grocers near any place, so a food or drink maker can build a first list of local retail doors to visit or pitch.
 
+Prefer not to install anything? There is a [browser version](https://robbydslilgreens.com/indie-retail-doors/find?utm_source=github&utm_medium=readme&utm_campaign=door-finder-web) that does the same search and downloads the CSV.
+
 It uses only OpenStreetMap services (Nominatim to geocode, Overpass to search). No API keys, no accounts, and no third-party Python packages.
 
 ```
